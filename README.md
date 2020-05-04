@@ -1,4 +1,4 @@
 # Python_projekt
 Projekt z pythona
-W celu uruchomienia potrzebna jest zainstalowane 
+W celu uruchomienia potrzebne jest zainstalowane 
 python -m pip install pillow
